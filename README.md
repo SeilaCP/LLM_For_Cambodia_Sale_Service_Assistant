@@ -27,3 +27,9 @@ Risk Identification and Mitigation
 - Timeline Delay
 - Security Risks
 - lack Data for training and risk of knowledge
+
+Referent:
+Thank you and I want to provide this credit for this book that help me learning alot from it
+- Build a Large Language Model (From Scratch)
+- https://github.com/rasbt/LLMs-from-scratch
+
