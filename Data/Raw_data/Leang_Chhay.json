@@ -1,0 +1,4530 @@
+{
+ "name": "Kimleangchhay",
+ "type": "personal_chat",
+ "id": 719046874,
+ "messages": [
+  {
+   "id": 61978,
+   "type": "message",
+   "date": "2025-12-01T22:47:57",
+   "date_unixtime": "1764604077",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pu help send file env in backend bos pu tver hy oy nhom tic mok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu help send file env in backend bos pu tver hy oy nhom tic mok"
+    }
+   ]
+  },
+  {
+   "id": 61979,
+   "type": "message",
+   "date": "2025-12-01T22:48:21",
+   "date_unixtime": "1764604101",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 25326,
+   "width": 963,
+   "height": 209,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 61980,
+   "type": "message",
+   "date": "2025-12-01T22:57:03",
+   "date_unixtime": "1764604623",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "so for project page ng ot ten connect muy backend na haii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "so for project page ng ot ten connect muy backend na haii"
+    }
+   ]
+  },
+  {
+   "id": 61981,
+   "type": "message",
+   "date": "2025-12-01T23:26:24",
+   "date_unixtime": "1764606384",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "som env bos frontend pg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "som env bos frontend pg"
+    }
+   ]
+  },
+  {
+   "id": 61982,
+   "type": "message",
+   "date": "2025-12-02T07:27:30",
+   "date_unixtime": "1764635250",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": [
+    "okay pu, jam pu replace value klun eg phg pu\n\nBackend:\n",
+    {
+     "type": "pre",
+     "text": "MONGODB_URI = \"\"\nMONGODB_DB = \"image_db\"\nIMAGE_COLLECTION = \"images\"\nPROJECT_COLLECTION = \"projects\"\nCORS_ORIGIN = \"*\"\nPORT = \":3000\"",
+     "language": "python"
+    },
+    "\n\nFrontend:\n",
+    {
+     "type": "pre",
+     "text": "VITE_BACKEND_BASE_ENDPOINT=\"http://localhost:3000\"\nVITE_ML_BASE_ENDPOINT=\"http://localhost:8000\"\nVITE_API_BASE_ENDPOINT=\"http://localhost:3001/api\"",
+     "language": ""
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okay pu, jam pu replace value klun eg phg pu\n\nBackend:\n"
+    },
+    {
+     "type": "pre",
+     "text": "MONGODB_URI = \"\"\nMONGODB_DB = \"image_db\"\nIMAGE_COLLECTION = \"images\"\nPROJECT_COLLECTION = \"projects\"\nCORS_ORIGIN = \"*\"\nPORT = \":3000\"",
+     "language": "python"
+    },
+    {
+     "type": "plain",
+     "text": "\n\nFrontend:\n"
+    },
+    {
+     "type": "pre",
+     "text": "VITE_BACKEND_BASE_ENDPOINT=\"http://localhost:3000\"\nVITE_ML_BASE_ENDPOINT=\"http://localhost:8000\"\nVITE_API_BASE_ENDPOINT=\"http://localhost:3001/api\"",
+     "language": ""
+    }
+   ]
+  },
+  {
+   "id": 61991,
+   "type": "message",
+   "date": "2025-12-02T10:20:11",
+   "date_unixtime": "1764645611",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 61982,
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 61993,
+   "type": "message",
+   "date": "2025-12-02T13:10:54",
+   "date_unixtime": "1764655854",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 61861,
+   "text": "pu ahh logic calculate progress ng pu eng yok data na mok calculate",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu ahh logic calculate progress ng pu eng yok data na mok calculate"
+    }
+   ]
+  },
+  {
+   "id": 61994,
+   "type": "message",
+   "date": "2025-12-02T13:12:15",
+   "date_unixtime": "1764655935",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "image1 / annotation1 < 0",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "image1 / annotation1 < 0"
+    }
+   ]
+  },
+  {
+   "id": 61995,
+   "type": "message",
+   "date": "2025-12-02T13:12:22",
+   "date_unixtime": "1764655942",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "complete men",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "complete men"
+    }
+   ]
+  },
+  {
+   "id": 61996,
+   "type": "message",
+   "date": "2025-12-02T13:13:04",
+   "date_unixtime": "1764655984",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "because yg mic can predict tha pel na complete men complete",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "because yg mic can predict tha pel na complete men complete"
+    }
+   ]
+  },
+  {
+   "id": 62001,
+   "type": "message",
+   "date": "2025-12-02T15:23:14",
+   "date_unixtime": "1764663794",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "complete and in progress ng oy user update manually phg hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "complete and in progress ng oy user update manually phg hov pu"
+    }
+   ]
+  },
+  {
+   "id": 62002,
+   "type": "message",
+   "date": "2025-12-02T15:23:43",
+   "date_unixtime": "1764663823",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 62003,
+   "type": "message",
+   "date": "2025-12-02T15:23:59",
+   "date_unixtime": "1764663839",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 53916,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 13,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62004,
+   "type": "message",
+   "date": "2025-12-02T15:24:16",
+   "date_unixtime": "1764663856",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes yes pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes yes pu"
+    }
+   ]
+  },
+  {
+   "id": 62005,
+   "type": "message",
+   "date": "2025-12-02T15:52:20",
+   "date_unixtime": "1764665540",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 62026,
+   "type": "message",
+   "date": "2025-12-03T12:39:59",
+   "date_unixtime": "1764740399",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "reply_to_message_id": 61861,
+   "text": "hello pu, yy tha pu jam tvr tah ah nis mg hov pu, for edit and delete project ng api mean srab aii, jg nh connect aii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hello pu, yy tha pu jam tvr tah ah nis mg hov pu, for edit and delete project ng api mean srab aii, jg nh connect aii"
+    }
+   ]
+  },
+  {
+   "id": 62027,
+   "type": "message",
+   "date": "2025-12-03T12:40:05",
+   "date_unixtime": "1764740405",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "or change klaeng ng hz?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "or change klaeng ng hz?"
+    }
+   ]
+  },
+  {
+   "id": 62028,
+   "type": "message",
+   "date": "2025-12-03T13:26:18",
+   "date_unixtime": "1764743178",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62027,
+   "text": "Nhom ot ban Change te msel Minh kor nhom brab tha mean os del",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nhom ot ban Change te msel Minh kor nhom brab tha mean os del"
+    }
+   ]
+  },
+  {
+   "id": 62029,
+   "type": "message",
+   "date": "2025-12-03T13:30:15",
+   "date_unixtime": "1764743415",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Okk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okk pu"
+    }
+   ]
+  },
+  {
+   "id": 62030,
+   "type": "message",
+   "date": "2025-12-03T13:30:19",
+   "date_unixtime": "1764743419",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Jg nh connect api hz jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Jg nh connect api hz jg"
+    }
+   ]
+  },
+  {
+   "id": 62031,
+   "type": "message",
+   "date": "2025-12-03T13:30:25",
+   "date_unixtime": "1764743425",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Pu jam tvr tah project ng hov jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pu jam tvr tah project ng hov jg"
+    }
+   ]
+  },
+  {
+   "id": 62032,
+   "type": "message",
+   "date": "2025-12-03T13:30:31",
+   "date_unixtime": "1764743431",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 62075,
+   "type": "message",
+   "date": "2025-12-04T00:46:35",
+   "date_unixtime": "1764783995",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 39737,
+   "width": 1280,
+   "height": 434,
+   "text": "bat button save project bos pu see ot",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "bat button save project bos pu see ot"
+    }
+   ]
+  },
+  {
+   "id": 62076,
+   "type": "message",
+   "date": "2025-12-04T00:47:32",
+   "date_unixtime": "1764784052",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "nh ot kernh phg pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nh ot kernh phg pu"
+    }
+   ]
+  },
+  {
+   "id": 62077,
+   "type": "message",
+   "date": "2025-12-04T00:47:41",
+   "date_unixtime": "1764784061",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "chob",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "chob"
+    }
+   ]
+  },
+  {
+   "id": 62078,
+   "type": "message",
+   "date": "2025-12-04T00:49:00",
+   "date_unixtime": "1764784140",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pg ot ey tes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pg ot ey tes"
+    }
+   ]
+  },
+  {
+   "id": 62079,
+   "type": "message",
+   "date": "2025-12-04T00:49:16",
+   "date_unixtime": "1764784156",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "cham mel dak ahh chas test sen",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "cham mel dak ahh chas test sen"
+    }
+   ]
+  },
+  {
+   "id": 62080,
+   "type": "message",
+   "date": "2025-12-04T00:49:52",
+   "date_unixtime": "1764784192",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ber ot jg, add button plet mg hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ber ot jg, add button plet mg hov pu"
+    }
+   ]
+  },
+  {
+   "id": 62081,
+   "type": "message",
+   "date": "2025-12-04T00:49:58",
+   "date_unixtime": "1764784198",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "dak before export nus",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "dak before export nus"
+    }
+   ]
+  },
+  {
+   "id": 62082,
+   "type": "message",
+   "date": "2025-12-04T00:50:15",
+   "date_unixtime": "1764784215",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pg tv mel code project chas copy dak",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pg tv mel code project chas copy dak"
+    }
+   ]
+  },
+  {
+   "id": 62083,
+   "type": "message",
+   "date": "2025-12-04T00:50:25",
+   "date_unixtime": "1764784225",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 62091,
+   "type": "message",
+   "date": "2025-12-04T11:02:27",
+   "date_unixtime": "1764820947",
+   "edited": "2025-12-04T11:03:53",
+   "edited_unixtime": "1764821033",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 64005,
+   "width": 1280,
+   "height": 695,
+   "text": "Project page dash board hy hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Project page dash board hy hy"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Kimleangchhay SONG",
+        "from_id": "user719046874",
+        "date": "2025-12-04T11:03:53"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 62092,
+   "type": "message",
+   "date": "2025-12-04T11:03:19",
+   "date_unixtime": "1764820999",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 62093,
+   "type": "message",
+   "date": "2025-12-04T11:03:27",
+   "date_unixtime": "1764821007",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Jam pu push code mg mk jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Jam pu push code mg mk jg"
+    }
+   ]
+  },
+  {
+   "id": 62094,
+   "type": "message",
+   "date": "2025-12-04T11:04:15",
+   "date_unixtime": "1764821055",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 53864,
+   "width": 1280,
+   "height": 624,
+   "text": "ahh kaleng status ng dak cheng ban ot nhom copy dak ai oy tver ui oy vea tver jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahh kaleng status ng dak cheng ban ot nhom copy dak ai oy tver ui oy vea tver jg"
+    }
+   ]
+  },
+  {
+   "id": 62095,
+   "type": "message",
+   "date": "2025-12-04T11:04:28",
+   "date_unixtime": "1764821068",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Yes pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes pu"
+    }
+   ]
+  },
+  {
+   "id": 62096,
+   "type": "message",
+   "date": "2025-12-04T11:04:58",
+   "date_unixtime": "1764821098",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62093,
+   "text": "nv te cham tver kaleng create project and save project der sen cham push tv chom knea",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nv te cham tver kaleng create project and save project der sen cham push tv chom knea"
+    }
+   ]
+  },
+  {
+   "id": 62097,
+   "type": "message",
+   "date": "2025-12-04T11:05:24",
+   "date_unixtime": "1764821124",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 62167,
+   "type": "message",
+   "date": "2025-12-06T08:31:47",
+   "date_unixtime": "1764984707",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "hello pu, for create project nus mx deh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hello pu, for create project nus mx deh"
+    }
+   ]
+  },
+  {
+   "id": 62168,
+   "type": "message",
+   "date": "2025-12-06T08:32:10",
+   "date_unixtime": "1764984730",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu tvr man, ber sin jea yk tam PM nus, jam pu push code mk, nh add krouy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu tvr man, ber sin jea yk tam PM nus, jam pu push code mk, nh add krouy"
+    }
+   ]
+  },
+  {
+   "id": 62169,
+   "type": "message",
+   "date": "2025-12-06T08:33:26",
+   "date_unixtime": "1764984806",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": [
+    "orr ber pu ml code kng repo nis ",
+    {
+     "type": "link",
+     "text": "https://github.com/PunleuTY/PM_JOMNAM"
+    },
+    " and kae mg kor ban deh"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "orr ber pu ml code kng repo nis "
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/PunleuTY/PM_JOMNAM"
+    },
+    {
+     "type": "plain",
+     "text": " and kae mg kor ban deh"
+    }
+   ]
+  },
+  {
+   "id": 62187,
+   "type": "message",
+   "date": "2025-12-06T14:29:07",
+   "date_unixtime": "1765006147",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62169,
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 62273,
+   "type": "message",
+   "date": "2025-12-10T12:32:03",
+   "date_unixtime": "1765344723",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Mean ey oy nhom tver tt ot",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mean ey oy nhom tver tt ot"
+    }
+   ]
+  },
+  {
+   "id": 62274,
+   "type": "message",
+   "date": "2025-12-10T12:32:37",
+   "date_unixtime": "1765344757",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Mean arom tha nhom ot pa yoch klang",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mean arom tha nhom ot pa yoch klang"
+    }
+   ]
+  },
+  {
+   "id": 62275,
+   "type": "message",
+   "date": "2025-12-10T12:35:10",
+   "date_unixtime": "1765344910",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Ot pa yoch nah pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ot pa yoch nah pu"
+    }
+   ]
+  },
+  {
+   "id": 62276,
+   "type": "message",
+   "date": "2025-12-10T12:35:13",
+   "date_unixtime": "1765344913",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Ban pu tvr backend ng aii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ban pu tvr backend ng aii"
+    }
+   ]
+  },
+  {
+   "id": 62277,
+   "type": "message",
+   "date": "2025-12-10T12:35:22",
+   "date_unixtime": "1765344922",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Ot mean nah yol backend phg haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ot mean nah yol backend phg haha"
+    }
+   ]
+  },
+  {
+   "id": 62278,
+   "type": "message",
+   "date": "2025-12-10T12:35:36",
+   "date_unixtime": "1765344936",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Emm hz pu pin ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Emm hz pu pin ng"
+    }
+   ]
+  },
+  {
+   "id": 62279,
+   "type": "message",
+   "date": "2025-12-10T12:36:00",
+   "date_unixtime": "1765344960",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Mxmx pu eg refine content for final presentation hoh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mxmx pu eg refine content for final presentation hoh"
+    }
+   ]
+  },
+  {
+   "id": 62280,
+   "type": "message",
+   "date": "2025-12-10T12:36:05",
+   "date_unixtime": "1765344965",
+   "edited": "2025-12-10T12:36:10",
+   "edited_unixtime": "1765344970",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Klaeng pu yy kal mid term",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Klaeng pu yy kal mid term"
+    }
+   ]
+  },
+  {
+   "id": 62281,
+   "type": "message",
+   "date": "2025-12-10T12:36:13",
+   "date_unixtime": "1765344973",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 62282,
+   "type": "message",
+   "date": "2025-12-10T12:36:17",
+   "date_unixtime": "1765344977",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Kru have some feedback hoh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Kru have some feedback hoh"
+    }
+   ]
+  },
+  {
+   "id": 62283,
+   "type": "message",
+   "date": "2025-12-10T12:36:19",
+   "date_unixtime": "1765344979",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Okk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okk pu"
+    }
+   ]
+  },
+  {
+   "id": 62752,
+   "type": "message",
+   "date": "2025-12-16T21:32:14",
+   "date_unixtime": "1765895534",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 87369,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 22,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62753,
+   "type": "message",
+   "date": "2025-12-16T21:32:40",
+   "date_unixtime": "1765895560",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 90883,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 24,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62758,
+   "type": "message",
+   "date": "2025-12-16T21:34:18",
+   "date_unixtime": "1765895658",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, klaeng ng tools technologies doch knea pu. But for pu, kron yy pi origin bos tool ng heh, what is it, how it works ey jg tv, and why we use it, example, yg use go for backend, why use go, why not other ey jg. so klaeng ng pu also state we use that tool for what, but only briefly short short",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, klaeng ng tools technologies doch knea pu. But for pu, kron yy pi origin bos tool ng heh, what is it, how it works ey jg tv, and why we use it, example, yg use go for backend, why use go, why not other ey jg. so klaeng ng pu also state we use that tool for what, but only briefly short short"
+    }
+   ]
+  },
+  {
+   "id": 62759,
+   "type": "message",
+   "date": "2025-12-16T21:34:44",
+   "date_unixtime": "1765895684",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "but pu focus jren jeang on yy pi origin bos tool ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but pu focus jren jeang on yy pi origin bos tool ng"
+    }
+   ]
+  },
+  {
+   "id": 62760,
+   "type": "message",
+   "date": "2025-12-16T21:35:36",
+   "date_unixtime": "1765895736",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "jg ahh ng nv part nhom trov ot",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jg ahh ng nv part nhom trov ot"
+    }
+   ]
+  },
+  {
+   "id": 62761,
+   "type": "message",
+   "date": "2025-12-16T21:36:18",
+   "date_unixtime": "1765895778",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 69905,
+   "width": 683,
+   "height": 738,
+   "text": "ahh nis bos pro rath ket tver",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahh nis bos pro rath ket tver"
+    }
+   ]
+  },
+  {
+   "id": 62763,
+   "type": "message",
+   "date": "2025-12-16T21:36:52",
+   "date_unixtime": "1765895812",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "PROJECT ANALYSIS AND CONCEPTS \nknong project analysis and concept",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "PROJECT ANALYSIS AND CONCEPTS \nknong project analysis and concept"
+    }
+   ]
+  },
+  {
+   "id": 62764,
+   "type": "message",
+   "date": "2025-12-16T21:37:16",
+   "date_unixtime": "1765895836",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "reply_to_message_id": 62760,
+   "text": "yes pu ah ng part pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu ah ng part pu"
+    }
+   ]
+  },
+  {
+   "id": 62765,
+   "type": "message",
+   "date": "2025-12-16T21:37:32",
+   "date_unixtime": "1765895852",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "reply_to_message_id": 62761,
+   "text": "bro rath klaeng ng focus more on how we use that tools in the project",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "bro rath klaeng ng focus more on how we use that tools in the project"
+    }
+   ]
+  },
+  {
+   "id": 62766,
+   "type": "message",
+   "date": "2025-12-16T21:37:50",
+   "date_unixtime": "1765895870",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "reply_to_message_id": 62761,
+   "text": "sdeang bos senior haha, peak hah, oy bro rath refine klas klas hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sdeang bos senior haha, peak hah, oy bro rath refine klas klas hov pu"
+    }
+   ]
+  },
+  {
+   "id": 62768,
+   "type": "message",
+   "date": "2025-12-16T21:37:54",
+   "date_unixtime": "1765895874",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "klach ke jab ban ey job haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "klach ke jab ban ey job haha"
+    }
+   ]
+  },
+  {
+   "id": 62769,
+   "type": "message",
+   "date": "2025-12-16T21:38:41",
+   "date_unixtime": "1765895921",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 40967,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 10,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62770,
+   "type": "message",
+   "date": "2025-12-16T21:38:51",
+   "date_unixtime": "1765895931",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 22300,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 5,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62771,
+   "type": "message",
+   "date": "2025-12-16T21:39:05",
+   "date_unixtime": "1765895945",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 42267,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 11,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62774,
+   "type": "message",
+   "date": "2025-12-16T21:40:20",
+   "date_unixtime": "1765896020",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "dak teang 2 pu, bro rath yy briefly about the tool too but focus more on how that tool used in our project. pu doch knea, but pu focus more on origin bos tool ng, detail yk mg, mean bombek tv jren jomnoch tt",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "dak teang 2 pu, bro rath yy briefly about the tool too but focus more on how that tool used in our project. pu doch knea, but pu focus more on origin bos tool ng, detail yk mg, mean bombek tv jren jomnoch tt"
+    }
+   ]
+  },
+  {
+   "id": 62775,
+   "type": "message",
+   "date": "2025-12-16T21:40:33",
+   "date_unixtime": "1765896033",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "but not all tools and tech in bro rath path need to include in part pu too",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but not all tools and tech in bro rath path need to include in part pu too"
+    }
+   ]
+  },
+  {
+   "id": 62776,
+   "type": "message",
+   "date": "2025-12-16T21:41:13",
+   "date_unixtime": "1765896073",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 19368,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 4,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62777,
+   "type": "message",
+   "date": "2025-12-16T21:41:38",
+   "date_unixtime": "1765896098",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 24020,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 6,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62778,
+   "type": "message",
+   "date": "2025-12-16T21:42:11",
+   "date_unixtime": "1765896131",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "haha yes yes pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "haha yes yes pu"
+    }
+   ]
+  },
+  {
+   "id": 62784,
+   "type": "message",
+   "date": "2025-12-17T14:09:54",
+   "date_unixtime": "1765955394",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pu mean report bos senoir mel ot sen oy  nhom tic mel",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu mean report bos senoir mel ot sen oy  nhom tic mel"
+    }
+   ]
+  },
+  {
+   "id": 62785,
+   "type": "message",
+   "date": "2025-12-17T14:10:30",
+   "date_unixtime": "1765955430",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Mean tah bos senior JOMNAM pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mean tah bos senior JOMNAM pu"
+    }
+   ]
+  },
+  {
+   "id": 62786,
+   "type": "message",
+   "date": "2025-12-17T14:10:44",
+   "date_unixtime": "1765955444",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nhom mean del ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom mean del ng"
+    }
+   ]
+  },
+  {
+   "id": 62787,
+   "type": "message",
+   "date": "2025-12-17T14:10:51",
+   "date_unixtime": "1765955451",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Yes pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes pu"
+    }
+   ]
+  },
+  {
+   "id": 62788,
+   "type": "message",
+   "date": "2025-12-17T14:10:53",
+   "date_unixtime": "1765955453",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Mean tah muy ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Mean tah muy ng"
+    }
+   ]
+  },
+  {
+   "id": 62789,
+   "type": "message",
+   "date": "2025-12-17T14:11:14",
+   "date_unixtime": "1765955474",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 62792,
+   "type": "message",
+   "date": "2025-12-17T15:14:28",
+   "date_unixtime": "1765959268",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Detail Concept.docx",
+   "file_size": 134156,
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62793,
+   "type": "message",
+   "date": "2025-12-17T15:14:57",
+   "date_unixtime": "1765959297",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pu check tic mok ahh part nhom ng trov detail jg men",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu check tic mok ahh part nhom ng trov detail jg men"
+    }
+   ]
+  },
+  {
+   "id": 62794,
+   "type": "message",
+   "date": "2025-12-17T15:15:09",
+   "date_unixtime": "1765959309",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, that's it pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, that's it pu"
+    }
+   ]
+  },
+  {
+   "id": 62795,
+   "type": "message",
+   "date": "2025-12-17T15:15:10",
+   "date_unixtime": "1765959310",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "trov aii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "trov aii"
+    }
+   ]
+  },
+  {
+   "id": 62796,
+   "type": "message",
+   "date": "2025-12-17T15:15:36",
+   "date_unixtime": "1765959336",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "yg jg detail ahh na klas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yg jg detail ahh na klas"
+    }
+   ]
+  },
+  {
+   "id": 62797,
+   "type": "message",
+   "date": "2025-12-17T15:15:58",
+   "date_unixtime": "1765959358",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "detail tah doch pu write ng ban hz pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "detail tah doch pu write ng ban hz pu"
+    }
+   ]
+  },
+  {
+   "id": 62798,
+   "type": "message",
+   "date": "2025-12-17T15:16:27",
+   "date_unixtime": "1765959387",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Programming Languages and Frameworks.docx",
+   "file_size": 19202,
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": "ot te knong ng mean react mean go mean ...",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ot te knong ng mean react mean go mean ..."
+    }
+   ]
+  },
+  {
+   "id": 62799,
+   "type": "message",
+   "date": "2025-12-17T15:16:35",
+   "date_unixtime": "1765959395",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "jg detail ler ahh na klas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jg detail ler ahh na klas"
+    }
+   ]
+  },
+  {
+   "id": 62800,
+   "type": "message",
+   "date": "2025-12-17T15:18:02",
+   "date_unixtime": "1765959482",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "maybe just the core pu, react (frontend), go (backend), python (ml)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "maybe just the core pu, react (frontend), go (backend), python (ml)"
+    }
+   ]
+  },
+  {
+   "id": 62801,
+   "type": "message",
+   "date": "2025-12-17T15:18:08",
+   "date_unixtime": "1765959488",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "i think these 3 powered each module",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "i think these 3 powered each module"
+    }
+   ]
+  },
+  {
+   "id": 62802,
+   "type": "message",
+   "date": "2025-12-17T15:18:16",
+   "date_unixtime": "1765959496",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "mx yy all, yy tah ah nah somkhan",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mx yy all, yy tah ah nah somkhan"
+    }
+   ]
+  },
+  {
+   "id": 62803,
+   "type": "message",
+   "date": "2025-12-17T15:18:55",
+   "date_unixtime": "1765959535",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok jg nhom tver ahh 3 ng hy sen tic tt cham ket tt tha dak ey tt",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok jg nhom tver ahh 3 ng hy sen tic tt cham ket tt tha dak ey tt"
+    }
+   ]
+  },
+  {
+   "id": 62804,
+   "type": "message",
+   "date": "2025-12-17T15:19:11",
+   "date_unixtime": "1765959551",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 62825,
+   "type": "message",
+   "date": "2025-12-17T18:50:00",
+   "date_unixtime": "1765972200",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nhom klay ta cheb copy te ahh klas nhom yok pi ai and reseach kren change word tic toc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom klay ta cheb copy te ahh klas nhom yok pi ai and reseach kren change word tic toc"
+    }
+   ]
+  },
+  {
+   "id": 62826,
+   "type": "message",
+   "date": "2025-12-17T19:30:17",
+   "date_unixtime": "1765974617",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "deh ey teh pu, kom oy tah copy teang ors mg pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "deh ey teh pu, kom oy tah copy teang ors mg pu"
+    }
+   ]
+  },
+  {
+   "id": 62827,
+   "type": "message",
+   "date": "2025-12-17T19:30:22",
+   "date_unixtime": "1765974622",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ber yk mk summarize in your own word",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ber yk mk summarize in your own word"
+    }
+   ]
+  },
+  {
+   "id": 62828,
+   "type": "message",
+   "date": "2025-12-17T19:30:25",
+   "date_unixtime": "1765974625",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ot ey teh pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ot ey teh pu"
+    }
+   ]
+  },
+  {
+   "id": 62829,
+   "type": "message",
+   "date": "2025-12-17T20:00:01",
+   "date_unixtime": "1765976401",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62827,
+   "text": "ot te kaleng klas ai teng dol but ta 2 sentence ey hy mean word add klun eng hy tv jg tt",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ot te kaleng klas ai teng dol but ta 2 sentence ey hy mean word add klun eng hy tv jg tt"
+    }
+   ]
+  },
+  {
+   "id": 62830,
+   "type": "message",
+   "date": "2025-12-17T20:01:19",
+   "date_unixtime": "1765976479",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Detail Concept.pdf",
+   "file_size": 72101,
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62831,
+   "type": "message",
+   "date": "2025-12-17T20:03:18",
+   "date_unixtime": "1765976598",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62800,
+   "text": "3 ng hy hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "3 ng hy hy"
+    }
+   ]
+  },
+  {
+   "id": 62832,
+   "type": "message",
+   "date": "2025-12-17T20:12:06",
+   "date_unixtime": "1765977126",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okay pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okay pu"
+    }
+   ]
+  },
+  {
+   "id": 62833,
+   "type": "message",
+   "date": "2025-12-17T20:12:13",
+   "date_unixtime": "1765977133",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "jg pu dak jol report mg hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jg pu dak jol report mg hov pu"
+    }
+   ]
+  },
+  {
+   "id": 62834,
+   "type": "message",
+   "date": "2025-12-17T20:12:22",
+   "date_unixtime": "1765977142",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ta pen ng ter haii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ta pen ng ter haii"
+    }
+   ]
+  },
+  {
+   "id": 62835,
+   "type": "message",
+   "date": "2025-12-17T20:12:34",
+   "date_unixtime": "1765977154",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu kit jenh tah 3 ng haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu kit jenh tah 3 ng haha"
+    }
+   ]
+  },
+  {
+   "id": 62836,
+   "type": "message",
+   "date": "2025-12-17T20:24:33",
+   "date_unixtime": "1765977873",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "hy hy\\",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hy hy\\"
+    }
+   ]
+  },
+  {
+   "id": 62838,
+   "type": "message",
+   "date": "2025-12-17T20:27:24",
+   "date_unixtime": "1765978044",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkkk pu"
+    }
+   ]
+  },
+  {
+   "id": 62839,
+   "type": "message",
+   "date": "2025-12-17T20:30:01",
+   "date_unixtime": "1765978201",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "hy ahh kaleng go gin ot mean take about how it work because nhom say hy hy nv knong process go gin tha vea tver work muy Rest api",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hy ahh kaleng go gin ot mean take about how it work because nhom say hy hy nv knong process go gin tha vea tver work muy Rest api"
+    }
+   ]
+  },
+  {
+   "id": 62840,
+   "type": "message",
+   "date": "2025-12-17T20:30:26",
+   "date_unixtime": "1765978226",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, no problem pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, no problem pu"
+    }
+   ]
+  },
+  {
+   "id": 62841,
+   "type": "message",
+   "date": "2025-12-17T20:30:29",
+   "date_unixtime": "1765978229",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pin ng acceptable pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pin ng acceptable pu"
+    }
+   ]
+  },
+  {
+   "id": 62842,
+   "type": "message",
+   "date": "2025-12-17T20:30:36",
+   "date_unixtime": "1765978236",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 62969,
+   "type": "message",
+   "date": "2025-12-18T21:57:49",
+   "date_unixtime": "1766069869",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 26544,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 6,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62970,
+   "type": "message",
+   "date": "2025-12-18T22:02:32",
+   "date_unixtime": "1766070152",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Yes pu, present to kort",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yes pu, present to kort"
+    }
+   ]
+  },
+  {
+   "id": 62971,
+   "type": "message",
+   "date": "2025-12-18T22:02:37",
+   "date_unixtime": "1766070157",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "But yg nv finalize part heii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "But yg nv finalize part heii"
+    }
+   ]
+  },
+  {
+   "id": 62972,
+   "type": "message",
+   "date": "2025-12-18T22:02:46",
+   "date_unixtime": "1766070166",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 62973,
+   "type": "message",
+   "date": "2025-12-18T22:15:00",
+   "date_unixtime": "1766070900",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 53263,
+   "width": 1280,
+   "height": 563,
+   "text": "ahh nis mean pi doch knea",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahh nis mean pi doch knea"
+    }
+   ]
+  },
+  {
+   "id": 62974,
+   "type": "message",
+   "date": "2025-12-18T22:15:33",
+   "date_unixtime": "1766070933",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "lots of new terms and concept out there and technical learning curve",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lots of new terms and concept out there and technical learning curve"
+    }
+   ]
+  },
+  {
+   "id": 62975,
+   "type": "message",
+   "date": "2025-12-18T22:15:48",
+   "date_unixtime": "1766070948",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "change teang ors mg hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "change teang ors mg hov pu"
+    }
+   ]
+  },
+  {
+   "id": 62976,
+   "type": "message",
+   "date": "2025-12-18T22:15:48",
+   "date_unixtime": "1766070948",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "kur dak ey vinh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kur dak ey vinh"
+    }
+   ]
+  },
+  {
+   "id": 62977,
+   "type": "message",
+   "date": "2025-12-18T22:15:53",
+   "date_unixtime": "1766070953",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "find something that srul yy vinh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "find something that srul yy vinh"
+    }
+   ]
+  },
+  {
+   "id": 62978,
+   "type": "message",
+   "date": "2025-12-18T22:15:58",
+   "date_unixtime": "1766070958",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "kal kru ot yol klaeng learning curve",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kal kru ot yol klaeng learning curve"
+    }
+   ]
+  },
+  {
+   "id": 62979,
+   "type": "message",
+   "date": "2025-12-18T22:16:48",
+   "date_unixtime": "1766071008",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62978,
+   "text": "delete ta learning curve ng kor ban because nhom ot yol del ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "delete ta learning curve ng kor ban because nhom ot yol del ng"
+    }
+   ]
+  },
+  {
+   "id": 62980,
+   "type": "message",
+   "date": "2025-12-18T22:17:04",
+   "date_unixtime": "1766071024",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "but dak ey vinh time constrain",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but dak ey vinh time constrain"
+    }
+   ]
+  },
+  {
+   "id": 62981,
+   "type": "message",
+   "date": "2025-12-18T22:17:24",
+   "date_unixtime": "1766071044",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "time constrain ot som heh, cus yg mean pel jren",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "time constrain ot som heh, cus yg mean pel jren"
+    }
+   ]
+  },
+  {
+   "id": 62982,
+   "type": "message",
+   "date": "2025-12-18T22:17:29",
+   "date_unixtime": "1766071049",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "jos ber dak tah 2 ng pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jos ber dak tah 2 ng pu"
+    }
+   ]
+  },
+  {
+   "id": 62983,
+   "type": "message",
+   "date": "2025-12-18T22:17:53",
+   "date_unixtime": "1766071073",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "vea doch men som ta 2",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "vea doch men som ta 2"
+    }
+   ]
+  },
+  {
+   "id": 62984,
+   "type": "message",
+   "date": "2025-12-18T22:18:07",
+   "date_unixtime": "1766071087",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "haha jos ber yg rk kernh tah 2 ng aii n",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "haha jos ber yg rk kernh tah 2 ng aii n"
+    }
+   ]
+  },
+  {
+   "id": 62985,
+   "type": "message",
+   "date": "2025-12-18T22:19:12",
+   "date_unixtime": "1766071152",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "businese because yg tol dol jet final hy yg nv ot chbas tha bussiness ng dak ey oy jbas pg ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "businese because yg tol dol jet final hy yg nv ot chbas tha bussiness ng dak ey oy jbas pg ng"
+    }
+   ]
+  },
+  {
+   "id": 62986,
+   "type": "message",
+   "date": "2025-12-18T22:20:51",
+   "date_unixtime": "1766071251",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ng kor ban pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ng kor ban pu"
+    }
+   ]
+  },
+  {
+   "id": 62987,
+   "type": "message",
+   "date": "2025-12-18T22:20:56",
+   "date_unixtime": "1766071256",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "rk peak nah dak tv som",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "rk peak nah dak tv som"
+    }
+   ]
+  },
+  {
+   "id": 62988,
+   "type": "message",
+   "date": "2025-12-18T22:21:26",
+   "date_unixtime": "1766071286",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "risk of business concept",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "risk of business concept"
+    }
+   ]
+  },
+  {
+   "id": 62989,
+   "type": "message",
+   "date": "2025-12-18T22:21:50",
+   "date_unixtime": "1766071310",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "or lack",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "or lack"
+    }
+   ]
+  },
+  {
+   "id": 62990,
+   "type": "message",
+   "date": "2025-12-18T22:22:23",
+   "date_unixtime": "1766071343",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, lack arch tomnong",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, lack arch tomnong"
+    }
+   ]
+  },
+  {
+   "id": 62991,
+   "type": "message",
+   "date": "2025-12-18T22:22:34",
+   "date_unixtime": "1766071354",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 62992,
+   "type": "message",
+   "date": "2025-12-18T22:23:25",
+   "date_unixtime": "1766071405",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "business plan or concept",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "business plan or concept"
+    }
+   ]
+  },
+  {
+   "id": 62993,
+   "type": "message",
+   "date": "2025-12-18T22:23:54",
+   "date_unixtime": "1766071434",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "concept pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "concept pu"
+    }
+   ]
+  },
+  {
+   "id": 62994,
+   "type": "message",
+   "date": "2025-12-18T22:24:00",
+   "date_unixtime": "1766071440",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 62996,
+   "type": "message",
+   "date": "2025-12-18T22:30:20",
+   "date_unixtime": "1766071820",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "present ahh del sen tv haii becuz slide doch ot change ey chren pg  ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "present ahh del sen tv haii becuz slide doch ot change ey chren pg  ng"
+    }
+   ]
+  },
+  {
+   "id": 62997,
+   "type": "message",
+   "date": "2025-12-18T22:30:54",
+   "date_unixtime": "1766071854",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, kron jg finalize mdg tt, mean add thaem tah pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, kron jg finalize mdg tt, mean add thaem tah pu"
+    }
+   ]
+  },
+  {
+   "id": 62998,
+   "type": "message",
+   "date": "2025-12-18T22:31:04",
+   "date_unixtime": "1766071864",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 62999,
+   "type": "message",
+   "date": "2025-12-18T22:31:28",
+   "date_unixtime": "1766071888",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "system architecture and use case, pu jg yy ot?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "system architecture and use case, pu jg yy ot?"
+    }
+   ]
+  },
+  {
+   "id": 63000,
+   "type": "message",
+   "date": "2025-12-18T22:31:44",
+   "date_unixtime": "1766071904",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nhom help tver BMC chol sen ber trov dak cham yok dak",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom help tver BMC chol sen ber trov dak cham yok dak"
+    }
+   ]
+  },
+  {
+   "id": 63001,
+   "type": "message",
+   "date": "2025-12-18T22:31:52",
+   "date_unixtime": "1766071912",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 63002,
+   "type": "message",
+   "date": "2025-12-18T22:32:19",
+   "date_unixtime": "1766071939",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ber pu yk, yy ban, if not nh yy ban pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ber pu yk, yy ban, if not nh yy ban pu"
+    }
+   ]
+  },
+  {
+   "id": 63003,
+   "type": "message",
+   "date": "2025-12-18T22:32:27",
+   "date_unixtime": "1766071947",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 62999,
+   "text": "maybe dak",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "maybe dak"
+    }
+   ]
+  },
+  {
+   "id": 63004,
+   "type": "message",
+   "date": "2025-12-18T22:32:40",
+   "date_unixtime": "1766071960",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes dak kng slide hz hz pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes dak kng slide hz hz pu"
+    }
+   ]
+  },
+  {
+   "id": 63005,
+   "type": "message",
+   "date": "2025-12-18T22:32:48",
+   "date_unixtime": "1766071968",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "tae pu jg yy klaeng ng ot, if not nh yy ban",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tae pu jg yy klaeng ng ot, if not nh yy ban"
+    }
+   ]
+  },
+  {
+   "id": 63006,
+   "type": "message",
+   "date": "2025-12-18T22:32:59",
+   "date_unixtime": "1766071979",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nhom mel mdong tt sen",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom mel mdong tt sen"
+    }
+   ]
+  },
+  {
+   "id": 63007,
+   "type": "message",
+   "date": "2025-12-18T22:33:06",
+   "date_unixtime": "1766071986",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 63008,
+   "type": "message",
+   "date": "2025-12-18T22:34:56",
+   "date_unixtime": "1766072096",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 43036,
+   "width": 1039,
+   "height": 571,
+   "text": "pu eng expain me ahh cloud flare and firebase and dak number mok ban dg pi na tv na\n\njust for explain me bach change knong slide te",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu eng expain me ahh cloud flare and firebase and dak number mok ban dg pi na tv na\n\njust for explain me bach change knong slide te"
+    }
+   ]
+  },
+  {
+   "id": 63009,
+   "type": "message",
+   "date": "2025-12-18T22:35:17",
+   "date_unixtime": "1766072117",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ot ban dak number teh pu, cus ah ng man workflow phg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ot ban dak number teh pu, cus ah ng man workflow phg"
+    }
+   ]
+  },
+  {
+   "id": 63010,
+   "type": "message",
+   "date": "2025-12-18T22:35:19",
+   "date_unixtime": "1766072119",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "just over architecture",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "just over architecture"
+    }
+   ]
+  },
+  {
+   "id": 63011,
+   "type": "message",
+   "date": "2025-12-18T22:35:33",
+   "date_unixtime": "1766072133",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "firebase use for authentication pu, signup and signin, cus yg ot ban build klun eg, so yg brer firebase auth provider",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "firebase use for authentication pu, signup and signin, cus yg ot ban build klun eg, so yg brer firebase auth provider"
+    }
+   ]
+  },
+  {
+   "id": 63012,
+   "type": "message",
+   "date": "2025-12-18T22:35:37",
+   "date_unixtime": "1766072137",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ke mean backend for ah ng oy pdouy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ke mean backend for ah ng oy pdouy"
+    }
+   ]
+  },
+  {
+   "id": 63014,
+   "type": "message",
+   "date": "2025-12-18T22:35:43",
+   "date_unixtime": "1766072143",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "cloudflare for storing image",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "cloudflare for storing image"
+    }
+   ]
+  },
+  {
+   "id": 63015,
+   "type": "message",
+   "date": "2025-12-18T22:35:46",
+   "date_unixtime": "1766072146",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "as cloud storage",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "as cloud storage"
+    }
+   ]
+  },
+  {
+   "id": 63017,
+   "type": "message",
+   "date": "2025-12-18T22:35:58",
+   "date_unixtime": "1766072158",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "doch pel user upload images for annotation jg, yg store those image to cloudflarer2",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "doch pel user upload images for annotation jg, yg store those image to cloudflarer2"
+    }
+   ]
+  },
+  {
+   "id": 63018,
+   "type": "message",
+   "date": "2025-12-18T22:36:25",
+   "date_unixtime": "1766072185",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu eg just yy yg mean frontend, backend, ml and what each element for",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu eg just yy yg mean frontend, backend, ml and what each element for"
+    }
+   ]
+  },
+  {
+   "id": 63296,
+   "type": "message",
+   "date": "2025-12-20T15:27:04",
+   "date_unixtime": "1766219224",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 38243,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 10,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63297,
+   "type": "message",
+   "date": "2025-12-20T15:27:10",
+   "date_unixtime": "1766219230",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 18123,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 4,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63298,
+   "type": "message",
+   "date": "2025-12-20T15:27:16",
+   "date_unixtime": "1766219236",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 15081,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 3,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63299,
+   "type": "message",
+   "date": "2025-12-20T15:27:44",
+   "date_unixtime": "1766219264",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ng pu, tae chngol trong tha ber add jg doch frontend, backend ... jos implementation ey, ot mean ey dak klaeng ng tt",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ng pu, tae chngol trong tha ber add jg doch frontend, backend ... jos implementation ey, ot mean ey dak klaeng ng tt"
+    }
+   ]
+  },
+  {
+   "id": 63300,
+   "type": "message",
+   "date": "2025-12-20T15:27:52",
+   "date_unixtime": "1766219272",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "nh ot jbas mx deh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nh ot jbas mx deh"
+    }
+   ]
+  },
+  {
+   "id": 63301,
+   "type": "message",
+   "date": "2025-12-20T15:28:03",
+   "date_unixtime": "1766219283",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 6653,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 1,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63302,
+   "type": "message",
+   "date": "2025-12-20T15:28:04",
+   "date_unixtime": "1766219284",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu sark tv ml report kru send mk tmey tmey hoh pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu sark tv ml report kru send mk tmey tmey hoh pu"
+    }
+   ]
+  },
+  {
+   "id": 63303,
+   "type": "message",
+   "date": "2025-12-20T15:28:05",
+   "date_unixtime": "1766219285",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "mx deh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mx deh"
+    }
+   ]
+  },
+  {
+   "id": 63304,
+   "type": "message",
+   "date": "2025-12-20T15:28:06",
+   "date_unixtime": "1766219286",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "klaeng ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "klaeng ng"
+    }
+   ]
+  },
+  {
+   "id": 63305,
+   "type": "message",
+   "date": "2025-12-20T15:28:21",
+   "date_unixtime": "1766219301",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 56396,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 14,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63308,
+   "type": "message",
+   "date": "2025-12-20T15:29:53",
+   "date_unixtime": "1766219393",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 26893,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 6,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63309,
+   "type": "message",
+   "date": "2025-12-20T15:31:26",
+   "date_unixtime": "1766219486",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ohh jg tools and technologies yk tv dak detail concept vinh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ohh jg tools and technologies yk tv dak detail concept vinh"
+    }
+   ]
+  },
+  {
+   "id": 63310,
+   "type": "message",
+   "date": "2025-12-20T15:31:40",
+   "date_unixtime": "1766219500",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "and klaeng bro rath jsut state functionality and then some diagram",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "and klaeng bro rath jsut state functionality and then some diagram"
+    }
+   ]
+  },
+  {
+   "id": 63311,
+   "type": "message",
+   "date": "2025-12-20T15:32:20",
+   "date_unixtime": "1766219540",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "mean ey pu, ber jg make sense vinh tah",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mean ey pu, ber jg make sense vinh tah"
+    }
+   ]
+  },
+  {
+   "id": 63313,
+   "type": "message",
+   "date": "2025-12-20T15:32:54",
+   "date_unixtime": "1766219574",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "lov pu jg change tv jg ot, ber jg sark discuss jmuy bro rath again ml",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "lov pu jg change tv jg ot, ber jg sark discuss jmuy bro rath again ml"
+    }
+   ]
+  },
+  {
+   "id": 63315,
+   "type": "message",
+   "date": "2025-12-20T15:33:58",
+   "date_unixtime": "1766219638",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "jol dc",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jol dc"
+    }
+   ]
+  },
+  {
+   "id": 63318,
+   "type": "message",
+   "date": "2025-12-20T15:35:19",
+   "date_unixtime": "1766219719",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu eg yy jmuy bro rath man",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu eg yy jmuy bro rath man"
+    }
+   ]
+  },
+  {
+   "id": 63319,
+   "type": "message",
+   "date": "2025-12-20T15:35:34",
+   "date_unixtime": "1766219734",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pg hav ket chol",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pg hav ket chol"
+    }
+   ]
+  },
+  {
+   "id": 63320,
+   "type": "message",
+   "date": "2025-12-20T15:36:29",
+   "date_unixtime": "1766219789",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "but ket ot ten reply",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but ket ot ten reply"
+    }
+   ]
+  },
+  {
+   "id": 63326,
+   "type": "message",
+   "date": "2025-12-20T16:10:35",
+   "date_unixtime": "1766221835",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": [
+    "Data Source complete: ",
+    {
+     "type": "link",
+     "text": "https://github.com/Leangchhay1523/Data-Engineer-Proejct---Weather-Data-Pipeline/pull/2"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Data Source complete: "
+    },
+    {
+     "type": "link",
+     "text": "https://github.com/Leangchhay1523/Data-Engineer-Proejct---Weather-Data-Pipeline/pull/2"
+    }
+   ]
+  },
+  {
+   "id": 63327,
+   "type": "message",
+   "date": "2025-12-20T16:11:17",
+   "date_unixtime": "1766221877",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okay pu, approved",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okay pu, approved"
+    }
+   ]
+  },
+  {
+   "id": 63328,
+   "type": "message",
+   "date": "2025-12-20T16:12:08",
+   "date_unixtime": "1766221928",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 56632,
+   "width": 1280,
+   "height": 748,
+   "text": "ai pu eng del nhom tha ot ches security",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ai pu eng del nhom tha ot ches security"
+    }
+   ]
+  },
+  {
+   "id": 63329,
+   "type": "message",
+   "date": "2025-12-20T16:12:40",
+   "date_unixtime": "1766221960",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "haha mk pi api key",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "haha mk pi api key"
+    }
+   ]
+  },
+  {
+   "id": 63330,
+   "type": "message",
+   "date": "2025-12-20T16:12:45",
+   "date_unixtime": "1766221965",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "api key ng ot ey nah heii?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "api key ng ot ey nah heii?"
+    }
+   ]
+  },
+  {
+   "id": 63331,
+   "type": "message",
+   "date": "2025-12-20T16:12:51",
+   "date_unixtime": "1766221971",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ssomrab tah call weather heh man",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ssomrab tah call weather heh man"
+    }
+   ]
+  },
+  {
+   "id": 63332,
+   "type": "message",
+   "date": "2025-12-20T16:13:14",
+   "date_unixtime": "1766221994",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 63331,
+   "text": "yes free trail te ot ey te",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes free trail te ot ey te"
+    }
+   ]
+  },
+  {
+   "id": 63333,
+   "type": "message",
+   "date": "2025-12-20T16:13:15",
+   "date_unixtime": "1766221995",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ber ot ey teh, dak jg mg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ber ot ey teh, dak jg mg"
+    }
+   ]
+  },
+  {
+   "id": 63334,
+   "type": "message",
+   "date": "2025-12-20T16:13:30",
+   "date_unixtime": "1766222010",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okk pu dak mg hov jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okk pu dak mg hov jg"
+    }
+   ]
+  },
+  {
+   "id": 63335,
+   "type": "message",
+   "date": "2025-12-20T16:13:33",
+   "date_unixtime": "1766222013",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "merge jol main hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "merge jol main hov pu"
+    }
+   ]
+  },
+  {
+   "id": 63336,
+   "type": "message",
+   "date": "2025-12-20T16:13:45",
+   "date_unixtime": "1766222025",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 63337,
+   "type": "message",
+   "date": "2025-12-20T16:15:32",
+   "date_unixtime": "1766222132",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "jos airlfow code pu ban pin nah hz, mxmx nh sark test sin",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jos airlfow code pu ban pin nah hz, mxmx nh sark test sin"
+    }
+   ]
+  },
+  {
+   "id": 63338,
+   "type": "message",
+   "date": "2025-12-20T16:16:18",
+   "date_unixtime": "1766222178",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "kraeng lor mean ey change",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kraeng lor mean ey change"
+    }
+   ]
+  },
+  {
+   "id": 63339,
+   "type": "message",
+   "date": "2025-12-20T16:16:26",
+   "date_unixtime": "1766222186",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "cham tic",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "cham tic"
+    }
+   ]
+  },
+  {
+   "id": 63340,
+   "type": "message",
+   "date": "2025-12-20T16:16:47",
+   "date_unixtime": "1766222207",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "airflow nhom ten hy te ten change pg ng",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "airflow nhom ten hy te ten change pg ng"
+    }
+   ]
+  },
+  {
+   "id": 63341,
+   "type": "message",
+   "date": "2025-12-20T16:17:21",
+   "date_unixtime": "1766222241",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "maen ta code teng dol pi lab7 mok mg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "maen ta code teng dol pi lab7 mok mg"
+    }
+   ]
+  },
+  {
+   "id": 63357,
+   "type": "message",
+   "date": "2025-12-20T20:06:03",
+   "date_unixtime": "1766235963",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu yy tha faker ng ot ton hz nah heii?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu yy tha faker ng ot ton hz nah heii?"
+    }
+   ]
+  },
+  {
+   "id": 63358,
+   "type": "message",
+   "date": "2025-12-20T20:06:09",
+   "date_unixtime": "1766235969",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "doysa kernh code doch ah call api",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "doysa kernh code doch ah call api"
+    }
+   ]
+  },
+  {
+   "id": 63359,
+   "type": "message",
+   "date": "2025-12-20T20:10:24",
+   "date_unixtime": "1766236224",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "hy os hy ter cham tic check mel sen",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hy os hy ter cham tic check mel sen"
+    }
+   ]
+  },
+  {
+   "id": 63360,
+   "type": "message",
+   "date": "2025-12-20T20:11:06",
+   "date_unixtime": "1766236266",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "kernh code faker and api fetch ng doch knea ng pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kernh code faker and api fetch ng doch knea ng pu"
+    }
+   ]
+  },
+  {
+   "id": 63361,
+   "type": "message",
+   "date": "2025-12-20T20:11:23",
+   "date_unixtime": "1766236283",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nhom copy khos cham tic",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom copy khos cham tic"
+    }
+   ]
+  },
+  {
+   "id": 63362,
+   "type": "message",
+   "date": "2025-12-20T20:11:28",
+   "date_unixtime": "1766236288",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 63363,
+   "type": "message",
+   "date": "2025-12-20T20:12:04",
+   "date_unixtime": "1766236324",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "faker_data_generate.py",
+   "file_size": 5604,
+   "mime_type": "text/x-python",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63364,
+   "type": "message",
+   "date": "2025-12-20T20:12:07",
+   "date_unixtime": "1766236327",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nis",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nis"
+    }
+   ]
+  },
+  {
+   "id": 63365,
+   "type": "message",
+   "date": "2025-12-20T20:12:32",
+   "date_unixtime": "1766236352",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu, rkun pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu, rkun pu"
+    }
+   ]
+  },
+  {
+   "id": 63366,
+   "type": "message",
+   "date": "2025-12-20T20:49:53",
+   "date_unixtime": "1766238593",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "capstone sol part ey klas oy nhom help",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "capstone sol part ey klas oy nhom help"
+    }
+   ]
+  },
+  {
+   "id": 63367,
+   "type": "message",
+   "date": "2025-12-20T20:50:44",
+   "date_unixtime": "1766238644",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu sark ml business oy hz kor ban pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu sark ml business oy hz kor ban pu"
+    }
+   ]
+  },
+  {
+   "id": 63368,
+   "type": "message",
+   "date": "2025-12-20T20:50:53",
+   "date_unixtime": "1766238653",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "OK",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "OK"
+    }
+   ]
+  },
+  {
+   "id": 63369,
+   "type": "message",
+   "date": "2025-12-20T20:59:40",
+   "date_unixtime": "1766239180",
+   "edited": "2025-12-20T20:59:47",
+   "edited_unixtime": "1766239187",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "muy tt nov knong business ng doch ket oy mel pi business model of exiting tools del pel ng\ntha tool ng mean free and pay trov ot",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "muy tt nov knong business ng doch ket oy mel pi business model of exiting tools del pel ng\ntha tool ng mean free and pay trov ot"
+    }
+   ]
+  },
+  {
+   "id": 63370,
+   "type": "message",
+   "date": "2025-12-20T21:00:12",
+   "date_unixtime": "1766239212",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, yy tv just state how this project can impact research community kor jea business deh pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, yy tv just state how this project can impact research community kor jea business deh pu"
+    }
+   ]
+  },
+  {
+   "id": 63371,
+   "type": "message",
+   "date": "2025-12-20T21:00:24",
+   "date_unixtime": "1766239224",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "and check other tools business model, keep it as future pricing potential",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "and check other tools business model, keep it as future pricing potential"
+    }
+   ]
+  },
+  {
+   "id": 63372,
+   "type": "message",
+   "date": "2025-12-20T21:00:33",
+   "date_unixtime": "1766239233",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu sark sur bro leu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu sark sur bro leu"
+    }
+   ]
+  },
+  {
+   "id": 63373,
+   "type": "message",
+   "date": "2025-12-20T21:00:40",
+   "date_unixtime": "1766239240",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "kort tvr literature review on other tools hoh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kort tvr literature review on other tools hoh"
+    }
+   ]
+  },
+  {
+   "id": 63374,
+   "type": "message",
+   "date": "2025-12-20T21:00:44",
+   "date_unixtime": "1766239244",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 63375,
+   "type": "message",
+   "date": "2025-12-20T21:00:45",
+   "date_unixtime": "1766239245",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "kort ng mention price ng ot jg hah",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kort ng mention price ng ot jg hah"
+    }
+   ]
+  },
+  {
+   "id": 63376,
+   "type": "message",
+   "date": "2025-12-20T21:01:50",
+   "date_unixtime": "1766239310",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "oy ket tver tam som rol sen tv ask jren pek mean arom tasks jren vinh te bos ket jren srab",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "oy ket tver tam som rol sen tv ask jren pek mean arom tasks jren vinh te bos ket jren srab"
+    }
+   ]
+  },
+  {
+   "id": 63377,
+   "type": "message",
+   "date": "2025-12-20T21:02:22",
+   "date_unixtime": "1766239342",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 63381,
+   "type": "message",
+   "date": "2025-12-20T21:23:31",
+   "date_unixtime": "1766240611",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 72271,
+   "width": 918,
+   "height": 652,
+   "text": "chab chabach mong tv haii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "chab chabach mong tv haii"
+    }
+   ]
+  },
+  {
+   "id": 63382,
+   "type": "message",
+   "date": "2025-12-20T21:23:48",
+   "date_unixtime": "1766240628",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okk pu, merge mg hov j",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okk pu, merge mg hov j"
+    }
+   ]
+  },
+  {
+   "id": 63383,
+   "type": "message",
+   "date": "2025-12-20T21:24:05",
+   "date_unixtime": "1766240645",
+   "edited": "2025-12-20T21:24:10",
+   "edited_unixtime": "1766240650",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "pu help kae tx hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu help kae tx hov pu"
+    }
+   ]
+  },
+  {
+   "id": 63384,
+   "type": "message",
+   "date": "2025-12-20T21:24:35",
+   "date_unixtime": "1766240675",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 81965,
+   "width": 1042,
+   "height": 745,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63385,
+   "type": "message",
+   "date": "2025-12-20T21:24:39",
+   "date_unixtime": "1766240679",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "jg hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "jg hy"
+    }
+   ]
+  },
+  {
+   "id": 63386,
+   "type": "message",
+   "date": "2025-12-20T21:24:49",
+   "date_unixtime": "1766240689",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 63387,
+   "type": "message",
+   "date": "2025-12-20T21:29:34",
+   "date_unixtime": "1766240974",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok hy hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok hy hy"
+    }
+   ]
+  },
+  {
+   "id": 63388,
+   "type": "message",
+   "date": "2025-12-20T21:30:27",
+   "date_unixtime": "1766241027",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu, rkun",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu, rkun"
+    }
+   ]
+  },
+  {
+   "id": 63390,
+   "type": "message",
+   "date": "2025-12-20T22:39:08",
+   "date_unixtime": "1766245148",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Business Concept.docx",
+   "file_size": 145678,
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 63391,
+   "type": "message",
+   "date": "2025-12-20T22:48:16",
+   "date_unixtime": "1766245696",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okk pu, i think that acceptable for me, pu send jol group hov pu.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okk pu, i think that acceptable for me, pu send jol group hov pu."
+    }
+   ]
+  },
+  {
+   "id": 63392,
+   "type": "message",
+   "date": "2025-12-20T22:48:23",
+   "date_unixtime": "1766245703",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "but yg mean BMC tlob tvr hz ter heii?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but yg mean BMC tlob tvr hz ter heii?"
+    }
+   ]
+  },
+  {
+   "id": 63393,
+   "type": "message",
+   "date": "2025-12-20T22:48:35",
+   "date_unixtime": "1766245715",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ot ng ton trov ka, but maybe kng slide yg arch dak kng appendix joal kor ban",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ot ng ton trov ka, but maybe kng slide yg arch dak kng appendix joal kor ban"
+    }
+   ]
+  },
+  {
+   "id": 63394,
+   "type": "message",
+   "date": "2025-12-20T22:49:04",
+   "date_unixtime": "1766245744",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "BMC pro rath tver hy ter haii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "BMC pro rath tver hy ter haii"
+    }
+   ]
+  },
+  {
+   "id": 63395,
+   "type": "message",
+   "date": "2025-12-20T22:49:23",
+   "date_unixtime": "1766245763",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "doch kernh mean tah pu, tae dg kort send nv nah",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "doch kernh mean tah pu, tae dg kort send nv nah"
+    }
+   ]
+  },
+  {
+   "id": 63396,
+   "type": "message",
+   "date": "2025-12-20T22:49:26",
+   "date_unixtime": "1766245766",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "mxmx add jol appendix",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "mxmx add jol appendix"
+    }
+   ]
+  },
+  {
+   "id": 63397,
+   "type": "message",
+   "date": "2025-12-20T22:49:27",
+   "date_unixtime": "1766245767",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "joal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "joal"
+    }
+   ]
+  },
+  {
+   "id": 63398,
+   "type": "message",
+   "date": "2025-12-20T22:51:15",
+   "date_unixtime": "1766245875",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "JomNam - Business Model & Business Requirement.pdf",
+   "file_size": 156205,
+   "mime_type": "application/pdf",
+   "text": "nis BMC",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nis BMC"
+    }
+   ]
+  },
+  {
+   "id": 63399,
+   "type": "message",
+   "date": "2025-12-20T22:54:22",
+   "date_unixtime": "1766246062",
+   "edited": "2025-12-20T22:54:28",
+   "edited_unixtime": "1766246068",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu, mxmx dak appendix hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu, mxmx dak appendix hov pu"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👌",
+      "recent": [
+       {
+        "from": "Manh Seila",
+        "from_id": "user1601862750",
+        "date": "2025-12-20T22:54:28"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 63400,
+   "type": "message",
+   "date": "2025-12-20T23:10:24",
+   "date_unixtime": "1766247024",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 63399,
+   "text": "dek mun hy cham tomorrow ban ot",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "dek mun hy cham tomorrow ban ot"
+    }
+   ]
+  },
+  {
+   "id": 63401,
+   "type": "message",
+   "date": "2025-12-20T23:11:11",
+   "date_unixtime": "1766247071",
+   "edited": "2025-12-20T23:11:27",
+   "edited_unixtime": "1766247087",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu tmr hov pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu tmr hov pu"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "🙏",
+      "recent": [
+       {
+        "from": "Manh Seila",
+        "from_id": "user1601862750",
+        "date": "2025-12-20T23:11:27"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 63402,
+   "type": "message",
+   "date": "2025-12-20T23:11:13",
+   "date_unixtime": "1766247073",
+   "edited": "2025-12-20T23:11:29",
+   "edited_unixtime": "1766247089",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "nh dek deh hz",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nh dek deh hz"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👌",
+      "recent": [
+       {
+        "from": "Manh Seila",
+        "from_id": "user1601862750",
+        "date": "2025-12-20T23:11:29"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 63404,
+   "type": "message",
+   "date": "2025-12-21T01:34:23",
+   "date_unixtime": "1766255663",
+   "edited": "2025-12-21T08:39:59",
+   "edited_unixtime": "1766281199",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 63399,
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 125371,
+   "width": 1280,
+   "height": 720,
+   "text": "hy hy but ot chbass kaleng key partner ahh ng nhom dak klun eng te tea dg ot trov hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "hy hy but ot chbass kaleng key partner ahh ng nhom dak klun eng te tea dg ot trov hy"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "❤",
+      "recent": [
+       {
+        "from": "Kimleangchhay SONG",
+        "from_id": "user719046874",
+        "date": "2025-12-21T08:39:59"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 63405,
+   "type": "message",
+   "date": "2025-12-21T08:39:54",
+   "date_unixtime": "1766281194",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Ey teh pu, jg kor ban deh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ey teh pu, jg kor ban deh"
+    }
+   ]
+  },
+  {
+   "id": 63458,
+   "type": "message",
+   "date": "2025-12-21T13:33:33",
+   "date_unixtime": "1766298813",
+   "edited": "2025-12-21T13:33:43",
+   "edited_unixtime": "1766298823",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Hy os nv pu nhom rvol Minh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hy os nv pu nhom rvol Minh"
+    }
+   ]
+  },
+  {
+   "id": 63459,
+   "type": "message",
+   "date": "2025-12-21T13:33:55",
+   "date_unixtime": "1766298835",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "teang ors man ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "teang ors man ?"
+    }
+   ]
+  },
+  {
+   "id": 63460,
+   "type": "message",
+   "date": "2025-12-21T13:33:57",
+   "date_unixtime": "1766298837",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "integration man ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "integration man ?"
+    }
+   ]
+  },
+  {
+   "id": 63461,
+   "type": "message",
+   "date": "2025-12-21T13:34:14",
+   "date_unixtime": "1766298854",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Report",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Report"
+    }
+   ]
+  },
+  {
+   "id": 63462,
+   "type": "message",
+   "date": "2025-12-21T13:35:06",
+   "date_unixtime": "1766298906",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "doch nv reab reference pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "doch nv reab reference pu"
+    }
+   ]
+  },
+  {
+   "id": 63479,
+   "type": "message",
+   "date": "2025-12-21T15:44:50",
+   "date_unixtime": "1766306690",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pu chhay ask ey ke sdab ot ten",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu chhay ask ey ke sdab ot ten"
+    }
+   ]
+  },
+  {
+   "id": 63480,
+   "type": "message",
+   "date": "2025-12-21T15:44:59",
+   "date_unixtime": "1766306699",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "sur bro rath",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "sur bro rath"
+    }
+   ]
+  },
+  {
+   "id": 63481,
+   "type": "message",
+   "date": "2025-12-21T15:45:01",
+   "date_unixtime": "1766306701",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "klaeng methodology",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "klaeng methodology"
+    }
+   ]
+  },
+  {
+   "id": 63482,
+   "type": "message",
+   "date": "2025-12-21T15:45:06",
+   "date_unixtime": "1766306706",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "kort yol ot haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "kort yol ot haha"
+    }
+   ]
+  },
+  {
+   "id": 63483,
+   "type": "message",
+   "date": "2025-12-21T15:45:29",
+   "date_unixtime": "1766306729",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 63502,
+   "type": "message",
+   "date": "2025-12-21T16:57:06",
+   "date_unixtime": "1766311026",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 49519,
+   "width": 672,
+   "height": 480,
+   "text": "ahh ng ey ke",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ahh ng ey ke"
+    }
+   ]
+  },
+  {
+   "id": 63503,
+   "type": "message",
+   "date": "2025-12-21T16:57:28",
+   "date_unixtime": "1766311048",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "evidence pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "evidence pu"
+    }
+   ]
+  },
+  {
+   "id": 63504,
+   "type": "message",
+   "date": "2025-12-21T16:57:33",
+   "date_unixtime": "1766311053",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "for manual annotation",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "for manual annotation"
+    }
+   ]
+  },
+  {
+   "id": 63570,
+   "type": "message",
+   "date": "2025-12-21T21:35:11",
+   "date_unixtime": "1766327711",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "This Project still has several limitations. The currently of JOMNAM has been working as prototype website now, which may not fully represent the complete website Tools that can using in realist, and it just can content some feature that we were been completed.\n  \n  For the future work, JOMNAM can be further improved by training our own model with Khmer dataset include handwritten, scene images and Khmer text. Additional we will be implementing our website complete with full feature and deploy.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "This Project still has several limitations. The currently of JOMNAM has been working as prototype website now, which may not fully represent the complete website Tools that can using in realist, and it just can content some feature that we were been completed.\n  \n  For the future work, JOMNAM can be further improved by training our own model with Khmer dataset include handwritten, scene images and Khmer text. Additional we will be implementing our website complete with full feature and deploy."
+    }
+   ]
+  },
+  {
+   "id": 63680,
+   "type": "message",
+   "date": "2025-12-23T00:02:02",
+   "date_unixtime": "1766422922",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "pu eng pg prepare for presentation tomorrow men",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "pu eng pg prepare for presentation tomorrow men"
+    }
+   ]
+  },
+  {
+   "id": 63681,
+   "type": "message",
+   "date": "2025-12-23T00:02:13",
+   "date_unixtime": "1766422933",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu"
+    }
+   ]
+  },
+  {
+   "id": 63682,
+   "type": "message",
+   "date": "2025-12-23T00:02:30",
+   "date_unixtime": "1766422950",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok"
+    }
+   ]
+  },
+  {
+   "id": 63683,
+   "type": "message",
+   "date": "2025-12-23T00:03:10",
+   "date_unixtime": "1766422990",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 63681,
+   "text": "nhom tv nov night tt leng ket hy tv mun hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom tv nov night tt leng ket hy tv mun hy"
+    }
+   ]
+  },
+  {
+   "id": 63684,
+   "type": "message",
+   "date": "2025-12-23T00:03:34",
+   "date_unixtime": "1766423014",
+   "edited": "2025-12-23T00:03:45",
+   "edited_unixtime": "1766423025",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "haha okk pu, nh dek tang lngeaj dol lov",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "haha okk pu, nh dek tang lngeaj dol lov"
+    }
+   ]
+  },
+  {
+   "id": 63685,
+   "type": "message",
+   "date": "2025-12-23T00:03:36",
+   "date_unixtime": "1766423016",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "terb ngerb",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "terb ngerb"
+    }
+   ]
+  },
+  {
+   "id": 63686,
+   "type": "message",
+   "date": "2025-12-23T00:03:39",
+   "date_unixtime": "1766423019",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "ml tx touch ng hah haha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ml tx touch ng hah haha"
+    }
+   ]
+  },
+  {
+   "id": 63687,
+   "type": "message",
+   "date": "2025-12-23T00:04:30",
+   "date_unixtime": "1766423070",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "nhom tngey minh drink coffee and tea ot mean ban dek ket te",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nhom tngey minh drink coffee and tea ot mean ban dek ket te"
+    }
+   ]
+  },
+  {
+   "id": 63688,
+   "type": "message",
+   "date": "2025-12-23T00:05:22",
+   "date_unixtime": "1766423122",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "haha lov yub dek tv pu, ot nguy tang ytd",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "haha lov yub dek tv pu, ot nguy tang ytd"
+    }
+   ]
+  },
+  {
+   "id": 63689,
+   "type": "message",
+   "date": "2025-12-23T00:05:25",
+   "date_unixtime": "1766423125",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "nh tx tt dek vinh deh hz",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nh tx tt dek vinh deh hz"
+    }
+   ]
+  },
+  {
+   "id": 63690,
+   "type": "message",
+   "date": "2025-12-23T00:05:46",
+   "date_unixtime": "1766423146",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "ok tv hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ok tv hy"
+    }
+   ]
+  },
+  {
+   "id": 63691,
+   "type": "message",
+   "date": "2025-12-23T00:06:05",
+   "date_unixtime": "1766423165",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu, good night",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu, good night"
+    }
+   ]
+  },
+  {
+   "id": 64417,
+   "type": "message",
+   "date": "2026-01-26T18:20:22",
+   "date_unixtime": "1769426422",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "wait cham mong 8 ey cham test nhom write khos algorithm tic",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "wait cham mong 8 ey cham test nhom write khos algorithm tic"
+    }
+   ]
+  },
+  {
+   "id": 64418,
+   "type": "message",
+   "date": "2026-01-26T18:45:46",
+   "date_unixtime": "1769427946",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "Okk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okk pu"
+    }
+   ]
+  },
+  {
+   "id": 64436,
+   "type": "message",
+   "date": "2026-01-27T09:34:28",
+   "date_unixtime": "1769481268",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "tdel pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "tdel pu"
+    }
+   ]
+  },
+  {
+   "id": 64437,
+   "type": "message",
+   "date": "2026-01-27T09:34:30",
+   "date_unixtime": "1769481270",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "photo_file_size": 79705,
+   "width": 689,
+   "height": 808,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64439,
+   "type": "message",
+   "date": "2026-01-27T09:42:05",
+   "date_unixtime": "1769481725",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 64436,
+   "text": "Ok Cham nhom check Mel sen jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok Cham nhom check Mel sen jg"
+    }
+   ]
+  },
+  {
+   "id": 64440,
+   "type": "message",
+   "date": "2026-01-27T09:42:31",
+   "date_unixtime": "1769481751",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Vaii problems because api nhom",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vaii problems because api nhom"
+    }
+   ]
+  },
+  {
+   "id": 64441,
+   "type": "message",
+   "date": "2026-01-27T09:44:09",
+   "date_unixtime": "1769481849",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu"
+    }
+   ]
+  },
+  {
+   "id": 64442,
+   "type": "message",
+   "date": "2026-01-27T09:45:24",
+   "date_unixtime": "1769481924",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Test sar tmey ban hy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Test sar tmey ban hy"
+    }
+   ]
+  },
+  {
+   "id": 64445,
+   "type": "message",
+   "date": "2026-01-27T09:49:28",
+   "date_unixtime": "1769482168",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okkk pu, der hz",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okkk pu, der hz"
+    }
+   ]
+  },
+  {
+   "id": 64446,
+   "type": "message",
+   "date": "2026-01-27T09:49:34",
+   "date_unixtime": "1769482174",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "vea jorb tah trem security ng aii",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "vea jorb tah trem security ng aii"
+    }
+   ]
+  },
+  {
+   "id": 64447,
+   "type": "message",
+   "date": "2026-01-27T09:49:37",
+   "date_unixtime": "1769482177",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "but overall work",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but overall work"
+    }
+   ]
+  },
+  {
+   "id": 64448,
+   "type": "message",
+   "date": "2026-01-27T09:49:50",
+   "date_unixtime": "1769482190",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "but jg yy tha pel upload hz, image ng store tv nah ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but jg yy tha pel upload hz, image ng store tv nah ?"
+    }
+   ]
+  },
+  {
+   "id": 64449,
+   "type": "message",
+   "date": "2026-01-27T09:49:56",
+   "date_unixtime": "1769482196",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "doysa later need to use those upload images to cloudflare deh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "doysa later need to use those upload images to cloudflare deh"
+    }
+   ]
+  },
+  {
+   "id": 64450,
+   "type": "message",
+   "date": "2026-01-27T09:53:20",
+   "date_unixtime": "1769482400",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "nh approved PR hz hz pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nh approved PR hz hz pu"
+    }
+   ]
+  },
+  {
+   "id": 64459,
+   "type": "message",
+   "date": "2026-01-27T09:57:12",
+   "date_unixtime": "1769482632",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "text": "Ok",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ok"
+    }
+   ]
+  },
+  {
+   "id": 64460,
+   "type": "message",
+   "date": "2026-01-27T09:57:43",
+   "date_unixtime": "1769482663",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "reply_to_message_id": 64448,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 31402,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 7,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64461,
+   "type": "message",
+   "date": "2026-01-27T09:57:47",
+   "date_unixtime": "1769482667",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 8339,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 1,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64462,
+   "type": "message",
+   "date": "2026-01-27T09:57:58",
+   "date_unixtime": "1769482678",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 36676,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 9,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64463,
+   "type": "message",
+   "date": "2026-01-27T09:58:10",
+   "date_unixtime": "1769482690",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "vea store kng local man ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "vea store kng local man ?"
+    }
+   ]
+  },
+  {
+   "id": 64464,
+   "type": "message",
+   "date": "2026-01-27T09:58:23",
+   "date_unixtime": "1769482703",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "doch pel yg upload tam device, vea min yk tv dak kng folder in local hoh",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "doch pel yg upload tam device, vea min yk tv dak kng folder in local hoh"
+    }
+   ]
+  },
+  {
+   "id": 64465,
+   "type": "message",
+   "date": "2026-01-27T09:58:31",
+   "date_unixtime": "1769482711",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "but for drive ng, vea jg deh ot jg hah",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "but for drive ng, vea jg deh ot jg hah"
+    }
+   ]
+  },
+  {
+   "id": 64466,
+   "type": "message",
+   "date": "2026-01-27T10:01:16",
+   "date_unixtime": "1769482876",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 51101,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 13,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64470,
+   "type": "message",
+   "date": "2026-01-27T10:02:06",
+   "date_unixtime": "1769482926",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 33258,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 8,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64474,
+   "type": "message",
+   "date": "2026-01-27T10:02:11",
+   "date_unixtime": "1769482931",
+   "from": "Manh Seila",
+   "from_id": "user1601862750",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_size": 13555,
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 3,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64475,
+   "type": "message",
+   "date": "2026-01-27T10:02:35",
+   "date_unixtime": "1769482955",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "okk pu, ber arch yk ban jg okay",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "okk pu, ber arch yk ban jg okay"
+    }
+   ]
+  },
+  {
+   "id": 64476,
+   "type": "message",
+   "date": "2026-01-27T10:02:43",
+   "date_unixtime": "1769482963",
+   "edited": "2026-01-27T10:03:13",
+   "edited_unixtime": "1769482993",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "cus nh tvr cloudflare, so arch push that image to cloudflare ey jg",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "cus nh tvr cloudflare, so arch push that image to cloudflare ey jg"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "emoji",
+      "count": 1,
+      "emoji": "👌",
+      "recent": [
+       {
+        "from": "Manh Seila",
+        "from_id": "user1601862750",
+        "date": "2026-01-27T10:03:13"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 64477,
+   "type": "message",
+   "date": "2026-01-27T10:02:46",
+   "date_unixtime": "1769482966",
+   "from": "Kimleangchhay SONG",
+   "from_id": "user719046874",
+   "text": "yes pu",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yes pu"
+    }
+   ]
+  }
+ ]
+}
